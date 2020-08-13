@@ -15,6 +15,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doyle_7_2_Sales", "..\Doyle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbersCalculations", "..\RandomNumbersCalculations\RandomNumbersCalculations.csproj", "{900CA065-947A-4E40-A2A1-C58B0E122419}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_1_TwoDimensionalArrays", "..\_8_1_TwoDimensionalArrays\_8_1_TwoDimensionalArrays.csproj", "{2AF4C198-F006-4B28-A5CF-D6A21EBE048D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumber", "..\PhoneNumber\PhoneNumber.csproj", "{E36F0F41-D597-45B7-A96B-919D777F9B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT1050_Assignment5_AlmostChess", "..\IT1050_Assignment5_AlmostChess\IT1050_Assignment5_AlmostChess.csproj", "{4E46E22C-CD66-4689-B722-926E19D1D2F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyPuzzles_10_TortoiseAndHareRace", "..\UdemyPuzzles_10_TortoiseAndHareRace\UdemyPuzzles_10_TortoiseAndHareRace.csproj", "{3FE36A18-9414-48F7-B06E-A11E3D52A7F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +53,22 @@ Global
 		{900CA065-947A-4E40-A2A1-C58B0E122419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{900CA065-947A-4E40-A2A1-C58B0E122419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{900CA065-947A-4E40-A2A1-C58B0E122419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF4C198-F006-4B28-A5CF-D6A21EBE048D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF4C198-F006-4B28-A5CF-D6A21EBE048D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF4C198-F006-4B28-A5CF-D6A21EBE048D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF4C198-F006-4B28-A5CF-D6A21EBE048D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36F0F41-D597-45B7-A96B-919D777F9B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36F0F41-D597-45B7-A96B-919D777F9B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36F0F41-D597-45B7-A96B-919D777F9B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36F0F41-D597-45B7-A96B-919D777F9B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E46E22C-CD66-4689-B722-926E19D1D2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E46E22C-CD66-4689-B722-926E19D1D2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E46E22C-CD66-4689-B722-926E19D1D2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E46E22C-CD66-4689-B722-926E19D1D2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE36A18-9414-48F7-B06E-A11E3D52A7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE36A18-9414-48F7-B06E-A11E3D52A7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE36A18-9414-48F7-B06E-A11E3D52A7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE36A18-9414-48F7-B06E-A11E3D52A7F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
